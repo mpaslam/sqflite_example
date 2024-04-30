@@ -1,6 +1,6 @@
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'package:sqflite_example/note_model.dart';
+import 'package:sqflite_example/loacaldata/note_model.dart';
 
 class DbHelper {
   static const int _version = 1;
